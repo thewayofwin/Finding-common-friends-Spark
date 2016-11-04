@@ -145,3 +145,4 @@ public class MutualFriendList {
 		System.exit(job.waitForCompletion(true) ? 0 : 1);
 	}
 }
+
