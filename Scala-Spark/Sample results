@@ -33,9 +33,3 @@ sample output
 (28,(4087 Edgewood Avenue,Fresno,California),86.0)
 (73,(2326 Turnpike Drive,Huntsville,Alabama),86.0)
 
-
-
-Q5
-Input: Alice is testing spark application. Testing spark is fun.
-Output: (test spark)  2
-
