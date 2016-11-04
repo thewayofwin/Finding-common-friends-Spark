@@ -1,0 +1,41 @@
+Working spark on databricks
+
+
+Q1
+output
+
+(0,1)          5,20
+(20,28193)     1
+(1,29826)      
+(6222,19272)   19263,19280,19281,19282
+(28041,28056)  6245,28054,28061
+
+
+Q2
+sample output
+0,1          5,20
+
+Q3
+sample output
+0 1	[Beth:8/27/1970, Juan:9/12/1991]
+
+
+Q4
+sample output
+(0,(3396 Rogers Street,Loveland,Ohio),86.0)
+(1,(1775 Sycamore Circle,Dallas,Texas),86.0)
+(8,(2323 Rafe Lane,Memphis,Mississippi),86.0)
+(9,(877 Isaacs Creek Road,Springfield,Illinois),86.0)
+(12,(3788 Chestnut Street,Tampa,Florida),86.0)
+(18,(3108 Lighthouse Drive,Springfield,Missouri),86.0)
+(19,(481 Locust Court,Anaheim,California),86.0)
+(24,(3014 Small Street,New York,New York),86.0)
+(28,(4087 Edgewood Avenue,Fresno,California),86.0)
+(73,(2326 Turnpike Drive,Huntsville,Alabama),86.0)
+
+
+
+Q5
+Input: Alice is testing spark application. Testing spark is fun.
+Output: (test spark)  2
+
