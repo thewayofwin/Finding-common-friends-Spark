@@ -32,6 +32,5 @@ val address = userData.map(line => line.split(",")).map(line => (line(0).toInt,(
 val Top10 = sc.parallelize(sortByFriendAge.take(10))
 val joinTop10 = Top10.join(address).sortByKey().map(line=>(line._1,(line._2._2._1,line._2._2._2,line._2._2._3), line._2._1))
 
-
 joinTop10.collect().foreach(println)
 
